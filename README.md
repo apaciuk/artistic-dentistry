@@ -1,5 +1,9 @@
 # Dentist Landing Page
+Landing page with fun random facts generator in XHR Ajax and Fetch
 
+## Author
+
+Paul Anthony McGowan
 ## Preview
 
 ## Status
@@ -11,7 +15,7 @@
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading, simply edit the HTML and CSS files included in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
 
@@ -32,5 +36,6 @@ You must have npm installed globally in order to use this build environment.
 ## About
 
 ## Copyright and License
+MIT License
 
 
