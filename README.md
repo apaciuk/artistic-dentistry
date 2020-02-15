@@ -1,6 +1,8 @@
 # Dentist Landing Page
 Landing page with fun random facts generator in XHR Ajax and Fetch
 
+Uses Bootstrap 4 CSS and JS 
+
 ## Author
 
 Paul Anthony McGowan
