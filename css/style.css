@@ -107,6 +107,9 @@ header.masthead .bg-circle-4 {
   top: -5rem;
   right: 35%;
 }
+#fact {
+display: none;
+}
 
 @media (min-width: 992px) {
   header.masthead {
