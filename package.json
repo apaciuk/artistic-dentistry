@@ -1,14 +1,13 @@
 {
     "title": "Artistic Dentistry",
     "name": "Artistic Dentistry Mockup ",
-    "version": "5.0.6",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
     "description": "A one page HTML template built with Bootstrap 4",
     "keywords": [
         "css",
-        "sass",
         "html",
         "responsive",
         "theme",
