@@ -165,13 +165,13 @@ color:lightgray;
 }
 #footer > div > div.row.text-center.text-xs-center.text-sm-left.text-md-left ul li > a {
 text-decoration:none;
-color:#0A4646;
+color:darkgrey;
 }
 #footer > div > div > div > p.h6 > a:hover,
 #footer > div > div > div > p > u > a:hover,
 #footer > div > div.row.text-center.text-xs-center.text-sm-left.text-md-left ul li > a:hover {
 text-decoration:none!important;
-color:rgb(10, 95, 95);
+color:lightgrey
 }
 #footer > div > div:nth-child(3) > div > p:nth-child(1) > u > a,
 #footer > div > div > div > p.h6 > a,
